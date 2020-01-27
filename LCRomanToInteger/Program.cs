@@ -42,7 +42,6 @@ namespace LCRomanToInteger
                         substring = s[currentLetter].ToString();
 
                         intFromNumeral += numToAdd;
-
                     }
                     catch
                     {
